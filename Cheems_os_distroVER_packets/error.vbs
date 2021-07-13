@@ -1,0 +1,1 @@
+x=msgbox("Distro is not installed" ,48, "bootloader")
