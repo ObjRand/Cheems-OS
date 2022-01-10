@@ -4,6 +4,6 @@
 ###### Dependancies:
 ###### ====================
 
-###### Python
+###### Python 3.0+
 ###### Batch [pre installed on windows]
 ###### Visual Basic Scripts [pre installed on windows]
