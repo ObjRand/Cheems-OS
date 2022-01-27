@@ -1,0 +1,1 @@
+CIG is a bootloader similar to GRUB but for Cheems OS distribution's
