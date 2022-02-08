@@ -1,2 +1,2 @@
 # THE-CHEEMS-OS-REPOS
-this is the place to get the cheems os files btw...
+THE FULL OFFICIAL REPOS OF CHEEMS OS
