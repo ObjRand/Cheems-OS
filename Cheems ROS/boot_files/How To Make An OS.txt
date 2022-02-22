@@ -1,0 +1,4 @@
+Make A Folder And Call it your oses name. (ex:'Cheems ROS')
+then make a file in it called 'kernel.py' and run your shit there.
+ 
+Done!
