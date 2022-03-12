@@ -17,5 +17,4 @@ THE FULL OFFICIAL REPOS OF CHEEMS OS
   Cheems Arch (Cheems OS Distro) By Toaster.png
   
   Cheems Distro Ver (Cheems OS Distro) By Toaster.png
-  
-yes - bean
+ 
