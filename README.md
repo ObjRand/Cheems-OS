@@ -1,4 +1,7 @@
 # THE-CHEEMS-OS-REPOS
+
+MADE BY ["Cheems CO."](https://yeeterboi4.github.io/cheemsco.web/index.html)
+
 THE FULL OFFICIAL REPOS OF CHEEMS OS
 
 # All Official Oses and distros:
