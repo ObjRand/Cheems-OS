@@ -10,11 +10,4 @@ THE FULL OFFICIAL REPOS OF CHEEMS OS
 
   Cheems OS By Yeeterboi4 And TV
   
-  Cheems ROS (Not Out Yet!) By Yeeterboi4 and Toaster.png
-  
-# The Distros:
-
-  Cheems Arch (Cheems OS Distro) By Toaster.png
-  
-  Cheems Distro Ver (Cheems OS Distro) By Toaster.png
- 
+  Cheems ROS (Not Out Yet!) By Yeeterboi4
