@@ -14,6 +14,6 @@ THE FULL OFFICIAL REPOS OF CHEEMS OS
 
 # The Distros:
 
-  Cheems Arch By Toaster
+  Cheems Arch By Toaster (for Cheems OS)
   
-  Cheems Distro By Toaster
+  Cheems Distro By Toaster (for Cheems OS)
