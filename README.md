@@ -10,7 +10,7 @@ THE FULL OFFICIAL REPOS OF CHEEMS OS
 
   Cheems OS By Yeeterboi4 And TV
   
-  Cheems ROS (Not Out Yet!) By Yeeterboi4
+  Cheems ROS V1.0 By Yeeterboi4 And Toaster
 
 # The Distros:
 
