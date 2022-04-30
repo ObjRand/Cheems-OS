@@ -1,0 +1,8 @@
+pip uninstall playsound -y -q -q 
+pip install playsound==1.2.2 -q 
+pip install keyboard -q
+pip install windows-curses -q 
+pip install colorama -q 
+pip install pyperclip -q 
+pip install requests -q
+pip install rich -q

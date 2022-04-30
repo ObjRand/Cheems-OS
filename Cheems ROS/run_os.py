@@ -1,5 +1,18 @@
 import os,threading,time
-from colorama import Fore, Back, Style
+import pkg_resources
+
+for package in ['colorama', 'keyboard','playsound','pyperclip','windows-curses']:
+    try:
+        dist = pkg_resources.get_distribution(package)
+    except pkg_resources.DistributionNotFound:
+        os.chdir('assets')
+        os.chdir('tools')
+        os.system(f'python installer.py')
+        os.chdir('..')
+        os.chdir('..')
+
+import keyboard
+from colorama import Fore, Style
 from playsound import playsound
 
 cd = os.getcwd()
@@ -26,7 +39,7 @@ def no_kernel_error():
 def startup_kernel(cur_os_data):
     os.chdir('boot_files')
     os.chdir(cur_os_data)
-    os.system('kernel.py')
+    os.system('python kernel.py')
 
 
 def boot_input():
@@ -79,10 +92,21 @@ def start_bootloader():
     
                 PRESS ENTER''')
 
-    os.system('pause >nul')
-    os.system('cls')
+    while True:
+        if keyboard.is_pressed('enter'):
+            os.system(f'mode con cols=100 lines=30')
+            os.system('cls')
+            print("""If You Want To Add An OS To The List Of OSES You Can Boot From...
+Visit:\"https://github.com/Yeeterboi4/THE-CHEEMS-OS-REPOS/blob/main/Cheems%20ROS/boot_files/How%20To%20Make%20An%20OS.txt\" To Find Out More!
+            
+            """)
+            print('Press Any Key To Continue.')
+            os.system('pause >nul')
+            break
+    os_scan()
 
 def os_scan():
+    os.system(f'mode con cols=45 lines={lines}')
     x = 0
     os.system('cls')
 
