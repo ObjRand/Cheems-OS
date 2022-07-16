@@ -17,3 +17,8 @@ THE FULL OFFICIAL REPOS OF CHEEMS OS
   Cheems Arch By Toaster (for Cheems OS)
   
   Cheems Distro By Toaster (for Cheems OS)
+
+
+
+
+## Cheems ROS is closed!
