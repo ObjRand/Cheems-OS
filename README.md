@@ -1,4 +1,4 @@
-# THE-CHEEMS-OS-REPOS
+# Cheems OS
 
 MADE BY ["Cheems CO."](https://yeeterboi4.github.io/cheemsco.web/index.html)
 
