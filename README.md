@@ -1,6 +1,6 @@
 # Cheems OS
 
-MADE BY ["Cheems CO."](https://yeeterboi4.github.io/cheemsco.web/index.html)
+MADE BY "Cheems CO." 
 
 THE FULL OFFICIAL REPOS OF CHEEMS OS
 
@@ -8,15 +8,17 @@ THE FULL OFFICIAL REPOS OF CHEEMS OS
 
 # The OSES:
 
-  Cheems OS By Yeeterboi4 And TV
+  Cheems OS by Yeeterboi4 And TV
   
-  Cheems ROS V1.0 By Yeeterboi4 And Toaster
+  Cheems ROS V1.0 by Yeeterboi4 And Toaster
 
 # The Distros:
 
-  Cheems Arch By Toaster (for Cheems OS)
+  Cheems Arch by Toaster (for Cheems OS)
   
-  Cheems Distro By Toaster (for Cheems OS)
+  Cheems Distro by Toaster (for Cheems OS)
+  
+  Cheems GO by Toaster (for Cheems ROS) (Coming Soon)
 
 
 
