@@ -8,7 +8,7 @@ THE FULL OFFICIAL REPOS OF CHEEMS OS
 
 # The OSES:
 
-  Cheems OS by Yeeterboi4 And TV
+  Cheems OS by Yeeterboi4
   
   Cheems ROS V1.0 by Yeeterboi4 And Toaster
 
